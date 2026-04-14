@@ -1,3 +1,4 @@
 ## Aluno(a):Mariane Marinho de Castro
 ## Dashboard de Saúde Mental e Burnout entre Estudantes
-- O dashboard foi feito com os dados retirados do Kaggle e possui gráficos analisando os níveis de burnout por gênero,curso,qualidade de sono vs burnout,nível de estresse vc burnout.
+- O dashboard foi feito com os dados retirados do Kaggle e com o objetivo de visualizar gráficos analisando os níveis de burnout por gênero,curso,analisando qualidade de sono vs burnout e nível de estresse vc burnout.
+- Como rodar o código: Instale a extensão python no VSCode,depois instale no terminal o streamlit(pip install streamlit plotly),rode o código com os comandos 'python -m streamlit run main.py'
